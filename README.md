@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alamin Arman
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming-hero task
-- 💞️ I’m looking to collaborate on web application project
-- 📫 How to reach me Alamin Arman(tm) facebook name
+- 👀 I’m Strongly interested in AI
+- 🌱 I’m currently studying Data science at Jahangirnagar University 
+- 💞️ I’m looking to collaborate with reasearch and implementation of ai project
+- 📫 How to reach me contact number +88 0178570-8607
 
 <!---
 alaminarman130205/alaminarman130205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
